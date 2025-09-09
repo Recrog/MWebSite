@@ -1,4 +1,4 @@
-# GameStudio Pro - Oyun Şirketi Web Sitesi
+# GameStudio Pro * SunFall - Oyun Şirketi Web Sitesi
 
 Modern, karanlık tema ile tasarlanmış oyun şirketi web sitesi. React frontend ve Node.js backend kullanılarak geliştirilmiştir.
 
@@ -83,7 +83,7 @@ game-company-website/
 │   │   └── index.js         # Giriş noktası
 │   └── package.json         # Frontend dependencies
 └── README.md                # Bu dosya
-```(.env dosyasında admin bilgilerini verirsin + if(user == admin ile navbarda gözükmemesi sağlanabilir) )
+```(.env dosyasında admin bilgilerini verirsin  )
 
 ## 🛠️ Teknolojiler
 
@@ -141,13 +141,14 @@ game-company-website/
 - Dinamik içerik yönetimi
 - Arama ve filtreleme
 - Animasyonlu geçişler
+- Admin paneli
+- Oyun satın alma sistemi
 
 🔄 **Gelecek Eklemeler**
-- Admin paneli
 - Blog/haber bölümü
 - Sosyal medya paylaşımı
 - Kullanıcı yorumları
-- Oyun satın alma sistemi
+
 
 ## 🚀 Deployment
 
@@ -189,5 +190,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 - **Konum**: İstanbul, Türkiye
 
 ---
-
+**Live Deployment**
+**sunfall-nv0o9lag8-receps-projects-915c7845.vercel.app**
 **GameStudio Pro** - Oyun dünyasının geleceğini şekillendiriyoruz! 🎮✨
